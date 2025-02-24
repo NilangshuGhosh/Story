@@ -1,1 +1,3 @@
 It was about 24/2/25 an evening 20:05 learning from my madam Angela Yu.
+Get-ChildItem -Force => it's used to get all the files including hiddens also to come up in the terminal. 
+git add --a;
